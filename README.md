@@ -23,3 +23,5 @@ It's important to note the compiler config settings. 'viaIR: true' had to be use
 Because of this, it appears to be difficult to verify the contract on Etherscan.
 
 Constructor argument used for _adminSigner: 0x5A9fDefaf662aA7B309a83F8a423eeD086547091
+
+The mainnet contract is deployed here: 0x3b0878e96950c3F7f94689a9C83c0E7608b1F26C
